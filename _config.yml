@@ -1,0 +1,4 @@
+theme: minima
+title: 张学征
+description: 自由开发者
+permalink: /:categories/:title:output_ext
