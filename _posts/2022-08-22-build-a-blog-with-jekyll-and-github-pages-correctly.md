@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "基于 Jekyll 和 GitHub Pages 搭建博客"
+title: "基于 Jekyll 和 GitHub Pages 正确地搭建博客"
 ---
 
 使用 GitHub Pages 搭建博客是个一劳永逸的过程，开头配置好了，以后只管内容创作，无需再操心技术层面的事。本文面向希望专注内容创作的博主，无技术基础要求。
@@ -26,7 +26,7 @@ description: 自由开发者 # 博客描述
 permalink: /:categories/:title:output_ext # 建议指定文章链接格式（域名/分类名/文章标题.html）
 ```
 
-[GitHub Pages 内置主题仓库列表](https://pages.github.com/themes/)
+链接：[GitHub Pages 内置主题仓库列表](https://pages.github.com/themes/)
 
 所有字段都是可选的，不提供也没问题。建议设置 `permalink` ，可使文章 URL 更优雅。
 
